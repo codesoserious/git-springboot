@@ -17,9 +17,10 @@ public class GitTests {
     System.out.println("第三次");
     System.out.println("第四次");
     int a=20;
-    System.out.println("第六次");
+    System.out.println("第六d次");
     int b=10;
      System.out.println("第五次");
      int c=40;
+     int d=40;
   }
 }
